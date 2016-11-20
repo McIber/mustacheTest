@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "coche",
+        "category": "Juguete",
+        "price": 15.24,
+        "freshness": "aaa"
+    },
+    {
+       "id": 2,
+       "name": "caballo",
+       "category": "Juguete",
+       "price": 3.20,
+       "freshness": "bbb"
+    }
+]

@@ -1,0 +1,22 @@
+
+{
+  "header": "Esta es la cabecera",
+  "items": [
+      {
+        "name": "rojo", 
+        "first": true, 
+        "url": "#Rojo"
+      },
+      {
+        "name": "verde", 
+        "link": true, 
+        "url": "#Verde"
+      },
+      {
+        "name": "azul", 
+        "link": true, 
+        "url": "#Azul"
+      }
+  ],
+  "empty": true
+}
